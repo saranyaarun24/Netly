@@ -9,11 +9,11 @@ var hashHistory = require('react-router').hashHistory;
 var routes = require('./config/routes.js');
 
 var config = {
-    /*apiKey: "your API Key",
-    authDomain: "your authDomain",
-    databaseURL: "your databaseURL",
-    storageBucket: "your storageBucket",
-    messagingSenderId: "your messagingSenderId"*/
+    apiKey: "AIzaSyAprVys_518SkcbwR8UupjYaJoO1HA1DI8",
+    authDomain: "testproje-64b1d.firebaseapp.com",
+    databaseURL: "https://testproje-64b1d.firebaseio.com",
+    storageBucket: "",
+    messagingSenderId: "362961044554"
 };
 
 var selingConfigTester = {/*
